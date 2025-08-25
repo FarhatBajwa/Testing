@@ -1,4 +1,4 @@
-# ----- Android runtime permissions -----
+# ----- Android runtime permission-----
 ANDROID = False
 try:
     from android.permissions import request_permissions, Permission
